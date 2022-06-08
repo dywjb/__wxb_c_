@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>[胜利]</key>
+	<string>1000</string>
+	<key>[不懂]</key>
+	<string>1001</string>
+	<key>[大拇指]</key>
+	<string>1002</string>
+	<key>[鼓掌]</key>
+	<string>1003</string>
+	<key>[好]</key>
+	<string>1004</string>
+	<key>[好厉害]</key>
+	<string>1005</string>
+	<key>[迷惑]</key>
+	<string>1006</string>
+	<key>[不明白]</key>
+	<string>1007</string>
+	<key>[思考]</key>
+	<string>1008</string>
+	<key>[鲜花]</key>
+	<string>1009</string>
+	<key>[疑问]</key>
+	<string>1010</string>
+	<key>[赞]</key>
+	<string>1011</string>
+</dict>
+</plist>
