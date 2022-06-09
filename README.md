@@ -1,6 +1,6 @@
 # __c\_wxb
 
-**无限宝 for macOS 破解版**
+无限宝 for macOS 破解版
 
 * 删除了锁屏功能
 
